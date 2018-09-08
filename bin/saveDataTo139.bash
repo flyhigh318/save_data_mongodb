@@ -1,4 +1,5 @@
 #!/bin/bash
+# author: Abner.W
 # function: it can push 10.172.182.35 monitorperhour data to mongodb from one hour.
 
 
